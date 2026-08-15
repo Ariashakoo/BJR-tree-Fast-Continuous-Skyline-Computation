@@ -1,4 +1,4 @@
-```md
+
 # BJR-tree: Fast Continuous Skyline Computation
 
 This repository provides a clean and efficient C++ implementation of the **Balanced Jointed Rooted Tree (BJR-tree)** algorithm and the **Non-Dominated Relation Cache (ND-cache)**, as described in the paper:
@@ -95,4 +95,3 @@ Contributions are welcome! Please open an issue or submit a pull request for:
 ---
 
 > **Note**: This implementation is for educational and research purposes. For production use in biomedical or industrial systems, please validate against domain-specific requirements.
-```
